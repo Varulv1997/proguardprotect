@@ -223,7 +223,7 @@
 .builder-slide-panel h4{
   font-size: 14px;
   font-weight: bold!important;
-  color: #3eff01!important;
+  color: #da0037!important;
   vertical-align: middle;
   text-transform: uppercase;
 }
@@ -236,7 +236,7 @@
 }
 .switch i{
   vertical-align: middle;
-  color: #3eff01;
+  color: #da0037;
 }
 .custom-builder-panel:hover .builder-switch:before{
   animation: box_ripple 3s cubic-bezier(.18,.74,.72,1);
@@ -554,12 +554,12 @@ label {
 }
 
 .input-border::-moz-placeholder {
-    color: #201c15;
+    color: #2A2731;
     font-weight: normal;
 }
 
 .input-border::placeholder {
-    color: #201c15;
+    color: #2A2731;
     font-weight: normal;
 }
 
@@ -610,7 +610,7 @@ label {
     transition: all .4s;
 }
 
-.btn-blue {
+.btn-cobalt {
     min-width: 185px;
     text-align: center;
     color: #fff;
@@ -620,14 +620,14 @@ label {
     font-weight: 500;
 }
 
-.btn-blue:hover {
+.btn-cobalt:hover {
     color: #fff;
     border-radius: 6px;
     -webkit-transform: scale(1.04);
     transform: scale(1.04);
 }
 
-.btn-blue-border {
+.btn-cobalt-border {
     min-width: 185px;
     text-align: center;
     padding: 13px 25px;
@@ -637,7 +637,7 @@ label {
     border: 2px solid;
 }
 
-.btn-blue-border:hover {
+.btn-cobalt-border:hover {
     color: #fff;
     border-radius: 6px;
     -webkit-transform: scale(1.04);
@@ -1184,7 +1184,7 @@ label {
     font-size: 15px;
 }
 
-.right-head .btn.btn-blue {
+.right-head .btn.btn-cobalt {
     padding: 8px 17px;
     font-weight: 500;
 }
@@ -1392,7 +1392,7 @@ label {
     font-size: 14px;
 }
 
-.banner-quote-form .btn-blue {
+.banner-quote-form .btn-cobalt {
     font-size: 14px;
     box-shadow: none;
 }
@@ -1716,7 +1716,7 @@ margin-bottom: 0px;
     opacity: 0.04;
 }
 
-.btn-blue.btn-md {
+.btn-cobalt.btn-md {
     min-width: 150px;
     font-size: 14px;
     padding: 10px 24px;
@@ -1873,7 +1873,7 @@ margin-bottom: 23px;
     color: #fff;
 }
 
-.service-each-3:hover .btn-blue-border {
+.service-each-3:hover .btn-cobalt-border {
     color: #fff;
 }
 
@@ -1901,7 +1901,7 @@ margin-bottom: 23px;
     top: 0;
     opacity: .6;
 }
-.cta.bg-blue.pt-100{
+.cta.bg-cobalt.pt-100{
     padding-bottom: 100px;
 }
 .cta h1 {
@@ -2241,7 +2241,7 @@ margin-bottom: 23px;
     margin-bottom: 19px;
 }
 
-.testimonial-quote .quote-blue {
+.testimonial-quote .quote-cobalt {
     font-size: 50px;
     position: absolute;
     left: 30px;
@@ -2528,7 +2528,7 @@ margin-bottom: 23px;
     left: 0;
     top: 8px;
     font-size: 12px;
-    color: #3dba69;
+    color: #da0037;
 }
 
 .prive-2-list li span {
@@ -4180,23 +4180,23 @@ textarea.input-white {
     opacity: 1;
 }
 
-.blue-contacts {
+.cobalt-contacts {
     padding: 40px 30px;
     padding-bottom: 40px;
     color: #ffff;
     padding-bottom: 35px;
 }
 
-.blue-contacts .icon {
+.cobalt-contacts .icon {
     background-color: #fff;
 }
 
-.blue-contacts li:not(:last-child) {
+.cobalt-contacts li:not(:last-child) {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
     padding-bottom: 16px;
 }
 
-.blue-contacts li p {
+.cobalt-contacts li p {
     font-size: 20px;
 }
 
@@ -4660,7 +4660,7 @@ section.error:after {
 .datepicker table tr td.active:hover:hover,
 .datepicker table tr td.active:hover[disabled],
 .datepicker table tr td.active[disabled] {
-    background-color: #201c15;
+    background-color: #2A2731;
 }
 
 .datepicker table tr td.active,
@@ -4668,7 +4668,7 @@ section.error:after {
 .datepicker table tr td.active.disabled:hover,
 .datepicker table tr td.active:hover {
     background-image: none;
-    background: #201c15;
+    background: #2A2731;
 }
 
 .clear-cart {
@@ -4843,11 +4843,11 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .custom-control-input:checked~.custom-control-label::before {
-    background-color: #201c15;
+    background-color: #2A2731;
 }
 
 .custom-radio .custom-control-input:checked~.custom-control-label::before {
-    background-color: #201c15;
+    background-color: #2A2731;
 }
 
 .price-detail ul {
@@ -4878,7 +4878,7 @@ h4.ship-address.icon-change:after {
     border-radius: 50px;
     font-weight: normal;
     font-size: 12px;
-    background-color: #56dc95;
+    background-color: #da0037;
     color: #fff;
 }
 
@@ -4989,7 +4989,7 @@ h4.ship-address.icon-change:after {
     font-size: 15px;
 }
 
-.blue-dot-list li {
+.cobalt-dot-list li {
     font-size: 14px;
     font-weight: 400;
     line-height: 2;
@@ -4997,7 +4997,7 @@ h4.ship-address.icon-change:after {
     padding-left: 25px;
 }
 
-.blue-dot-list li:before {
+.cobalt-dot-list li:before {
     font-family: "Font Awesome 5 Free";
     font-weight: 400;
     content: "\f192";

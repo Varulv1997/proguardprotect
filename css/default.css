@@ -3629,7 +3629,7 @@
     width: 14px;
     height: 14px;
     background-color: #fff;
-    border: 1px solid #35322b;
+    border: 1px solid #2A2731;
 }
 
 .custom-checkbox .custom-control-label::before {
@@ -3666,25 +3666,25 @@
 }
 
 [data-starsactive~="1"] li i:nth-child(1) {
-    color: #f6ae2d;
+    color: #da0037;
 }
 
 [data-starsactive~="2"] li i:nth-child(1),
 [data-starsactive~="2"] li i:nth-child(2) {
-    color: #f6ae2d;
+    color: #da0037;
 }
 
 [data-starsactive~="3"] li i:nth-child(1),
 [data-starsactive~="3"] li i:nth-child(2),
 [data-starsactive~="3"] li i:nth-child(3) {
-    color: #f6ae2d;
+    color: #da0037;
 }
 
 [data-starsactive~="4"] li i:nth-child(1),
 [data-starsactive~="4"] li i:nth-child(2),
 [data-starsactive~="4"] li i:nth-child(3),
 [data-starsactive~="4"] li i:nth-child(4) {
-    color: #f6ae2d;
+    color: #da0037;
 }
 
 [data-starsactive~="5"] li i:nth-child(1),
@@ -3692,7 +3692,7 @@
 [data-starsactive~="5"] li i:nth-child(3),
 [data-starsactive~="5"] li i:nth-child(4),
 [data-starsactive~="5"] li i:nth-child(5) {
-    color: #f6ae2d;
+    color: #da0037;
 }
 
 
@@ -3952,7 +3952,7 @@
 }
 
 .blob-small {
-    animation: pulse-blue-small 2s infinite;
+    animation: pulse-cobalt-small 2s infinite;
 }
 
 

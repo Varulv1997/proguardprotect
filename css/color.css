@@ -13,11 +13,11 @@
 
     1. Color black 
     2. Color light white
-    3. Color blue
+    3. Color cobalt
     4. Bg black
-    5. Bg blue
+    5. Bg cobalt
     6. Bg light white
-    7. Border blue
+    7. Border cobalt
     8. Border black
     9. Border light white
 
@@ -61,11 +61,11 @@ a:hover,
 
 
 /* ....................................
-3. Color blue
+3. Color cobalt
 .......................................*/
 
 a,
-.blue,
+.cobalt,
 .email-head a i,
 .main-menu-1 ul li a.active,
 .head-1-book,
@@ -73,7 +73,7 @@ a,
 .main-slider.owl-carousel .owl-nav button i,
 .check-list li span,
 .hw-steps:after,
-.testimonial-quote .quote-blue,
+.testimonial-quote .quote-cobalt,
 .lined-head:after,
 .lined-head:before,
 .blog-nav-icon,
@@ -98,16 +98,16 @@ a,
 .btn-filter.active,
 .btn-filter:hover,
 .check-list.type-2-c li i,
-.blue-dot-list li:before,
+.cobalt-dot-list li:before,
 .loader {
     color: #2989d8;
 }
 
 
-/*shadow blue*/
+/*shadow cobalt*/
 
-.shadow-blue,
-.testimonial-quote .quote-blue {
+.shadow-cobalt,
+.testimonial-quote .quote-cobalt {
     text-shadow: 0 4px 8px rgba(41, 137, 216, 0.5);
 }
 
@@ -124,7 +124,7 @@ a,
 .service-2-each:hover .service2-img .icon,
 .each-teams:hover .plus-btn,
 .head-type-2 .mean-container .meanmenu-reveal,
-.service-each-3:hover .btn-blue-border,
+.service-each-3:hover .btn-cobalt-border,
 .cta-video[data-overlay]::before,
 .owl-carousel.porfolio-slide .owl-nav .owl-prev,
 .owl-carousel.porfolio-slide .owl-nav .owl-next,
@@ -181,13 +181,13 @@ a,
 
 
 /* ....................................
-5. Bg blue
+5. Bg cobalt
 .......................................*/
 
-.bg-blue,
+.bg-cobalt,
 .head-1-book:hover,
-.btn-blue,
-.btn-blue-border:hover,
+.btn-cobalt,
+.btn-cobalt-border:hover,
 .main-menu-1 ul li a.active:after,
 .main-slider.owl-carousel .owl-nav button:hover,
 .service-each:hover,
@@ -245,65 +245,65 @@ a,
 }
 
 
-/*blue bg opacity classes*/
+/*cobalt bg opacity classes*/
 
-.bg-blue-op-9 {
+.bg-cobalt-op-9 {
     background: rgba(41, 137, 216, 0.9);
 }
 
-.bg-blue-op-8 {
+.bg-cobalt-op-8 {
     background: rgba(41, 137, 216, 0.8);
 }
 
-.bg-blue-op-7 {
+.bg-cobalt-op-7 {
     background: rgba(41, 137, 216, 0.7);
 }
 
-.bg-blue-op-6 {
+.bg-cobalt-op-6 {
     background: rgba(41, 137, 216, 0.6);
 }
 
-.bg-blue-op-5 {
+.bg-cobalt-op-5 {
     background: rgba(41, 137, 216, 0.5);
 }
 
-.bg-blue-op-4 {
+.bg-cobalt-op-4 {
     background: rgba(41, 137, 216, 0.4);
 }
 
-.bg-blue-op-3 {
+.bg-cobalt-op-3 {
     background: rgba(41, 137, 216, 0.3);
 }
 
-.bg-blue-op-2 {
+.bg-cobalt-op-2 {
     background: rgba(41, 137, 216, 0.2);
 }
 
-.bg-blue-op-1 {
+.bg-cobalt-op-1 {
     background: rgba(41, 137, 216, 0.1);
 }
 
 
-/*shadow blue*/
+/*shadow cobalt*/
 
-.btn-blue {
+.btn-cobalt {
     box-shadow: 0px 6px 10px -4px rgba(41, 137, 216, 0.53);
 }
 
-.shadow-blue {
+.shadow-cobalt {
     box-shadow: 0 0px 13px 2px rgba(41, 137, 216, 0.48);
 }
 
-.btn-blue:hover {
+.btn-cobalt:hover {
     box-shadow: 0px 11px 20px -4px rgba(41, 137, 216, 0.53);
 }
 
 .blob {
     box-shadow: 0 0 0 0 rgb(41, 137, 216);
-    animation: pulse-blue 2s infinite;
+    animation: pulse-cobalt 2s infinite;
 }
 
-@keyframes pulse-blue {
+@keyframes pulse-cobalt {
     0% {
         box-shadow: 0 0 0 0 rgba(41, 137, 216, 0.7);
     }
@@ -315,7 +315,7 @@ a,
     }
 }
 
-@keyframes pulse-blue-small {
+@keyframes pulse-cobalt-small {
     0% {
         box-shadow: 0 0 0 0 rgba(41, 137, 216, 0.7);
     }
@@ -353,12 +353,12 @@ section.error:after,
 
 
 /* ....................................
-7. Border Blue
+7. Border cobalt
 .......................................*/
 
-.border-blue,
+.border-cobalt,
 .head-1-book,
-.btn-blue-border,
+.btn-cobalt-border,
 .main-slider.owl-carousel .owl-nav button,
 .check-list li span,
 .why-video,

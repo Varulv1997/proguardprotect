@@ -391,7 +391,7 @@
     .banner-quote-form h3 {
         margin-bottom: 20px;
     }
-    .cta.bg-blue.pt-100 {
+    .cta.bg-cobalt.pt-100 {
         padding-top: 90px;
         padding-bottom: 95px;
     }
@@ -733,7 +733,7 @@
     .banner-type-4 {
         min-height: 660px;
     }
-    .right-head .btn.btn-blue {
+    .right-head .btn.btn-cobalt {
         padding: 8px 7px;
         font-weight: 500;
         font-size: 12px;
@@ -836,7 +836,7 @@
     .bg-quotes {
         min-height: 300px;
     }
-    .blue-contacts {
+    .cobalt-contacts {
         padding: 20px 16px;
     }
     .servvice-link-list li a {
